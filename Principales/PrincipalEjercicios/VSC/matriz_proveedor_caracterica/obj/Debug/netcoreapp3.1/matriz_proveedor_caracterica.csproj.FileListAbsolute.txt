@@ -1,0 +1,12 @@
+C:\Users\PABL\source\repos\Biblioteca\matriz_proveedor_caracterica\bin\Debug\netcoreapp3.1\matriz_proveedor_caracterica.exe
+C:\Users\PABL\source\repos\Biblioteca\matriz_proveedor_caracterica\bin\Debug\netcoreapp3.1\matriz_proveedor_caracterica.deps.json
+C:\Users\PABL\source\repos\Biblioteca\matriz_proveedor_caracterica\bin\Debug\netcoreapp3.1\matriz_proveedor_caracterica.runtimeconfig.json
+C:\Users\PABL\source\repos\Biblioteca\matriz_proveedor_caracterica\bin\Debug\netcoreapp3.1\matriz_proveedor_caracterica.runtimeconfig.dev.json
+C:\Users\PABL\source\repos\Biblioteca\matriz_proveedor_caracterica\bin\Debug\netcoreapp3.1\matriz_proveedor_caracterica.dll
+C:\Users\PABL\source\repos\Biblioteca\matriz_proveedor_caracterica\bin\Debug\netcoreapp3.1\matriz_proveedor_caracterica.pdb
+C:\Users\PABL\source\repos\Biblioteca\matriz_proveedor_caracterica\obj\Debug\netcoreapp3.1\matriz_proveedor_caracterica.AssemblyInfoInputs.cache
+C:\Users\PABL\source\repos\Biblioteca\matriz_proveedor_caracterica\obj\Debug\netcoreapp3.1\matriz_proveedor_caracterica.AssemblyInfo.cs
+C:\Users\PABL\source\repos\Biblioteca\matriz_proveedor_caracterica\obj\Debug\netcoreapp3.1\matriz_proveedor_caracterica.csproj.CoreCompileInputs.cache
+C:\Users\PABL\source\repos\Biblioteca\matriz_proveedor_caracterica\obj\Debug\netcoreapp3.1\matriz_proveedor_caracterica.dll
+C:\Users\PABL\source\repos\Biblioteca\matriz_proveedor_caracterica\obj\Debug\netcoreapp3.1\matriz_proveedor_caracterica.pdb
+C:\Users\PABL\source\repos\Biblioteca\matriz_proveedor_caracterica\obj\Debug\netcoreapp3.1\matriz_proveedor_caracterica.genruntimeconfig.cache

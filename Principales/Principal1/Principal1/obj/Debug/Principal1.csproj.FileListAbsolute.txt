@@ -1,0 +1,7 @@
+D:\Kevin Respaldos\Desktop\Principales\Principal1\Principal1\bin\Debug\Principal1.exe.config
+D:\Kevin Respaldos\Desktop\Principales\Principal1\Principal1\bin\Debug\Principal1.exe
+D:\Kevin Respaldos\Desktop\Principales\Principal1\Principal1\bin\Debug\Principal1.pdb
+D:\Kevin Respaldos\Desktop\Principales\Principal1\Principal1\obj\Debug\Principal1.csproj.AssemblyReference.cache
+D:\Kevin Respaldos\Desktop\Principales\Principal1\Principal1\obj\Debug\Principal1.csproj.CoreCompileInputs.cache
+D:\Kevin Respaldos\Desktop\Principales\Principal1\Principal1\obj\Debug\Principal1.exe
+D:\Kevin Respaldos\Desktop\Principales\Principal1\Principal1\obj\Debug\Principal1.pdb

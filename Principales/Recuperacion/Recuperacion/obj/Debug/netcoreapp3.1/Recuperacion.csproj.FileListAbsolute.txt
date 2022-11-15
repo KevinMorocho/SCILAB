@@ -1,0 +1,14 @@
+D:\Kevin Respaldos\Desktop\Principales\Recuperacion\Recuperacion\bin\Debug\netcoreapp3.1\Recuperacion.exe
+D:\Kevin Respaldos\Desktop\Principales\Recuperacion\Recuperacion\bin\Debug\netcoreapp3.1\Recuperacion.deps.json
+D:\Kevin Respaldos\Desktop\Principales\Recuperacion\Recuperacion\bin\Debug\netcoreapp3.1\Recuperacion.runtimeconfig.json
+D:\Kevin Respaldos\Desktop\Principales\Recuperacion\Recuperacion\bin\Debug\netcoreapp3.1\Recuperacion.runtimeconfig.dev.json
+D:\Kevin Respaldos\Desktop\Principales\Recuperacion\Recuperacion\bin\Debug\netcoreapp3.1\Recuperacion.dll
+D:\Kevin Respaldos\Desktop\Principales\Recuperacion\Recuperacion\bin\Debug\netcoreapp3.1\Recuperacion.pdb
+D:\Kevin Respaldos\Desktop\Principales\Recuperacion\Recuperacion\obj\Debug\netcoreapp3.1\Recuperacion.csproj.AssemblyReference.cache
+D:\Kevin Respaldos\Desktop\Principales\Recuperacion\Recuperacion\obj\Debug\netcoreapp3.1\Recuperacion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kevin Respaldos\Desktop\Principales\Recuperacion\Recuperacion\obj\Debug\netcoreapp3.1\Recuperacion.AssemblyInfoInputs.cache
+D:\Kevin Respaldos\Desktop\Principales\Recuperacion\Recuperacion\obj\Debug\netcoreapp3.1\Recuperacion.AssemblyInfo.cs
+D:\Kevin Respaldos\Desktop\Principales\Recuperacion\Recuperacion\obj\Debug\netcoreapp3.1\Recuperacion.csproj.CoreCompileInputs.cache
+D:\Kevin Respaldos\Desktop\Principales\Recuperacion\Recuperacion\obj\Debug\netcoreapp3.1\Recuperacion.dll
+D:\Kevin Respaldos\Desktop\Principales\Recuperacion\Recuperacion\obj\Debug\netcoreapp3.1\Recuperacion.pdb
+D:\Kevin Respaldos\Desktop\Principales\Recuperacion\Recuperacion\obj\Debug\netcoreapp3.1\Recuperacion.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\PABL\source\repos\Biblioteca\matriz_nxm_50\bin\Debug\netcoreapp3.1\matriz_nxm_50.exe
+C:\Users\PABL\source\repos\Biblioteca\matriz_nxm_50\bin\Debug\netcoreapp3.1\matriz_nxm_50.deps.json
+C:\Users\PABL\source\repos\Biblioteca\matriz_nxm_50\bin\Debug\netcoreapp3.1\matriz_nxm_50.runtimeconfig.json
+C:\Users\PABL\source\repos\Biblioteca\matriz_nxm_50\bin\Debug\netcoreapp3.1\matriz_nxm_50.runtimeconfig.dev.json
+C:\Users\PABL\source\repos\Biblioteca\matriz_nxm_50\bin\Debug\netcoreapp3.1\matriz_nxm_50.dll
+C:\Users\PABL\source\repos\Biblioteca\matriz_nxm_50\bin\Debug\netcoreapp3.1\matriz_nxm_50.pdb
+C:\Users\PABL\source\repos\Biblioteca\matriz_nxm_50\obj\Debug\netcoreapp3.1\matriz_nxm_50.csproj.AssemblyReference.cache
+C:\Users\PABL\source\repos\Biblioteca\matriz_nxm_50\obj\Debug\netcoreapp3.1\matriz_nxm_50.AssemblyInfoInputs.cache
+C:\Users\PABL\source\repos\Biblioteca\matriz_nxm_50\obj\Debug\netcoreapp3.1\matriz_nxm_50.AssemblyInfo.cs
+C:\Users\PABL\source\repos\Biblioteca\matriz_nxm_50\obj\Debug\netcoreapp3.1\matriz_nxm_50.csproj.CoreCompileInputs.cache
+C:\Users\PABL\source\repos\Biblioteca\matriz_nxm_50\obj\Debug\netcoreapp3.1\matriz_nxm_50.dll
+C:\Users\PABL\source\repos\Biblioteca\matriz_nxm_50\obj\Debug\netcoreapp3.1\matriz_nxm_50.pdb
+C:\Users\PABL\source\repos\Biblioteca\matriz_nxm_50\obj\Debug\netcoreapp3.1\matriz_nxm_50.genruntimeconfig.cache
